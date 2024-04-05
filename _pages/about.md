@@ -12,4 +12,4 @@ Welcome! I am a PhD Candidate in Political Science at Yale University. My resear
 
 My dissertation is about the causes and consequences of local and state governments in the United States outsourcing services to private non-profit organizations. I argue that outsourcing, which is a form of privatization, shapes how non-profit service providers participate in the political process and constrains government officials when trying to address important issues of public policy. I use a multi-method approach to answering these research questions, including experimental survey methods and qualitative case studies. I am also interested in questions of political behavior, including the structure of voters' political preferences and interventions to persuade.
 
-Please click here to see my CV, and thanks for visiting!
+You can download my [CV](https://nottone.github.io/files/Ottone_Nicholas_CV.pdf) here, and thanks for visiting!
