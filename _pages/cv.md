@@ -16,15 +16,15 @@ Education
 
 Working Papers
 ======
-Broockman, David, Joshua Kalla, \textbf{Nicholas Ottone}, Erik Santoro and Amanda Weiss. ``Shared Demographic Characteristics Do Not Reliably Facilitate Persuasion in Interpersonal Conversations: Evidence from Eight Experiments''. \textit{Conditionally Accepted at British Journal of Political Science}
+Broockman, David, Joshua Kalla, **Nicholas Ottone**, Erik Santoro and Amanda Weiss. ``Shared Demographic Characteristics Do Not Reliably Facilitate Persuasion in Interpersonal Conversations: Evidence from Eight Experiments''. *Conditionally Accepted at British Journal of Political Science*
 
-Hernandez, Natalie, \textbf{Nicholas Ottone} and Joshua Kalla. ``Targeted Abortion Frames Do Not Mobilize Political Action-Taking: Evidence from Survey and Field Experiments''. \textit{Revise and Resubmit}
+Hernandez, Natalie, **Nicholas Ottone** and Joshua Kalla. ``Targeted Abortion Frames Do Not Mobilize Political Action-Taking: Evidence from Survey and Field Experiments''. *Revise and Resubmit*
 
-Huber, Gregory, \textbf{Nicholas Ottone} and Erik Snowberg. ``The Coherence of Citizen Preferences.'' \textit{Under Review}
+Huber, Gregory, **Nicholas Ottone** and Erik Snowberg. ``The Coherence of Citizen Preferences.'' *Under Review*
 
-\textbf{Ottone, Nicholas} and Limor Peer. ``Unintended Research Code Errors and Computational Reproducibility''. \textit{Working Paper}
+**Ottone, Nicholas** and Limor Peer. ``Unintended Research Code Errors and Computational Reproducibility''. *Working Paper*
 
-\textbf{Ottone, Nicholas}, ``Do Americans Prefer Outsourcing Local Services to Non-Profits and Businesses? Evidence from Experimental Survey Data.'' \textit{Working Paper}
+**Ottone, Nicholas**, ``Do Americans Prefer Outsourcing Local Services to Non-Profits and Businesses? Evidence from Experimental Survey Data.'' *Working Paper*
   
 Work experience
 ======
