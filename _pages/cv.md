@@ -36,11 +36,9 @@ Work experience
 ======
 * Aug 2022-2024: Editorial Assistant
   * American Political Science Review
-  * Duties included: 
   * Supervisor: Dr. Dara Strolovitch
 
 * Aug 2021-2024: Research Assistant
   * Yale University, Institution for Social and Policy Studies Data Archive
-  * Duties included: 
   * Supervisor: Dr. Limor Peer
 
