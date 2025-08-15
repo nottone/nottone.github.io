@@ -1,10 +1,38 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
-Hernandez, Natalie, **Nicholas Ottone** and Joshua Kalla. 2025. ["Targeted Abortion Frames Do Not Mobilize Political Action-Taking"](https://journals.sagepub.com/doi/full/10.1177/1532673X251324137). *American Politics Research*.
+
+Book Project
+======
+**Ottone, Nicholas**, *The Policy Influence of Non-Profit Service Providers in Local Politics: Evidence from Qualitative Case Studies*. 
+
+
+Working Papers
+======
+[Harris, Allison](https://www.allisonpharris.com/), **Nicholas Ottone** and [Hannah Walker](https://mobilizedbyinjustice.com/). "Diversity among Courthouse Colleagues and Individual Decision Making". *Draft available upon request*
+  * **Abstract:** Scholarship analyzing data from court filings has found that judges render more racially equitable sentencing decisions as their group of colleagues becomes more racially diverse. With an original interactive survey experiment (N = 1,842), we explore the psychological mechanisms underlying this relationship by randomly assigning respondents to live online chats in which we manipulate the perceived racial composition of chat groups and the discussion topic. Respondents then make sentencing decisions for five Black and five White defendant profiles. We find that assignment to the diverse chat room focused on criminal justice decreased respondents' selection of an incarceration sentence for Black defendants by 3.3 percentage points (p = 0.045) compared to the homogenous chat room focused on criminal justice. Analysis of the 28,000 messages generated in our experimental chat rooms, further supports the finding that sentencing-relevant conversations led to respondents' decreased punitiveness toward Black defendants. These results suggest that relevant conversation with racial out-group members drives dominant racial group members' behavior changes as their colleague group becomes more racially diverse.
+
+[Huber, Gregory](https://huber.research.yale.edu/), **Nicholas Ottone** and [Erik Snowberg](https://eriksnowberg.com/). "The Coherence of Citizen Preferences". *Draft available upon request*
+  * **Abstract:** We use novel survey question design to ascertain the coherence of citizen preferences---both at a point in time and across time---in seven policy domains. Contrary to characterizations of the mass public as lacking meaningful policy preferences, we find that approximately 80\% of people express coherent preferences about 80% of the time. While some key factors thought to predict having "meaningful" preferences are associated with coherence, others---such as political interest, ideological constraint across issues, and extreme most-preferred policies---are only weakly related. 
+
+**Ottone, Nicholas**, "Do Americans Prefer Outsourcing Local Services to Non-Profits and Businesses? Evidence from Experimental Survey Data". *Draft available upon request*
+  * **Abstract:** For reasons ranging from efficiency to state capacity, government officials are increasingly outsourcing essential services to private businesses and non-profit organizations. Critics charge that outsourcing places the governance of publicly-funded services out of the control of elected officials, degrading democratic accountability. Through three nationally representative experimental studies (total N = 6,643), I find that Americans do not prefer outsourcing to government-run social services. Using hypothetical ballot measures and willingness-to-pay measurements, I find that Americans perceive non-profit organizations as more efficient and aligned with community values than local government but do not support nonprofit-run services any more than government-run services. However, Democrats oppose outsourcing to businesses because they perceive them as discriminatory and less aligned with community values, while Republicans are indifferent between government and business. These findings suggest that constituent demand is an unlikely explanation for widespread outsourcing and have implications for our understanding of political elites' incentives to outsource.
+
+**Ottone, Nicholas**, Janae Jackson and [Amanda Weiss](https://www.amandakweiss.com/). "The Electoral Effects of American Prison Construction". *Draft available upon request*
+  * **Abstract:** 
+
+
+Publications
+======
+**Ottone, Nicholas** and Limor Peer. 2025. ["Code Review, Reproducibility, and Improving the Scholarly Record."](https://hdsr.mitpress.mit.edu/pub/suy0nbh5/release/1?readingCollection=2472e026). *Harvard Data Science Review* 7(3).
+  * Accompanying Working Paper: Ottone, Nicholas and Limor Peer. 2024. ["Unintended Code Errors and Computational Reproducibility"](https://osf.io/preprints/metaarxiv/rv6xd_v1). *MetaArXiv*.
+  * [Replication Data](https://osf.io/ts4nh/)
+
+Hernandez, Natalie, **Nicholas Ottone** and Joshua Kalla. 2025. ["Targeted Abortion Frames Do Not Mobilize Political Action-Taking"](https://journals.sagepub.com/doi/full/10.1177/1532673X251324137). *American Politics Research* 53(4), 353-368.
   * [Replication Data](https://osf.io/j5vyd)
 
-Broockman, David, Joshua Kalla, **Nicholas Ottone**, Erik Santoro and Amanda Weiss. 2024. ["Shared Demographic Characteristics Do Not Reliably Facilitate Persuasion in Interpersonal Conversations: Evidence from Eight Experiments"](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/shared-demographic-characteristics-do-not-reliably-facilitate-persuasion-in-interpersonal-conversations-evidence-from-eight-experiments/6B7FA4A2CC36C4362C103BFDF97FB88C). *British Journal of Political Science*.
+Broockman, David, Joshua Kalla, **Nicholas Ottone**, Erik Santoro and Amanda Weiss. 2024. ["Shared Demographic Characteristics Do Not Reliably Facilitate Persuasion in Interpersonal Conversations: Evidence from Eight Experiments"](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/shared-demographic-characteristics-do-not-reliably-facilitate-persuasion-in-interpersonal-conversations-evidence-from-eight-experiments/6B7FA4A2CC36C4362C103BFDF97FB88C). *British Journal of Political Science* 54(4): 1477-85.
+* [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FOVEPZ)
