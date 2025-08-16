@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Computational Mathematics and Statistics and Political Science, University of Notre Dame, 2020
 * Ph.D in Political Science, Yale University, 2026 (expected)
+* B.S. in Applied Computational Mathematics and Statistics and Political Science, University of Notre Dame, 2020
 
 Publications
 ======
