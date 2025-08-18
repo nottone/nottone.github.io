@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my most recent [CV](https://nottone.github.io/files/Ottone_Nicholas_CV.pdf) here.
+
 Education
 ======
 * Ph.D in Political Science, Yale University, 2026 (expected)
