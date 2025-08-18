@@ -32,7 +32,7 @@ Huber, Gregory, **Nicholas Ottone** and Erik Snowberg. "The Coherence of Citizen
 
 Book Project
 ======
-**Ottone, Nicholas**, *The Policy Influence of Non-Profit Service Providers in Local Politics: Evidence from Qualitative Case Studies*. 
+**Ottone, Nicholas**, *The Policy Influence of Non-Profit Service Providers in Local Politics*. 
 
 Work experience
 ======
