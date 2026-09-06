@@ -11,9 +11,14 @@ redirect_from:
 
 You can download my most recent [CV](https://nottone.github.io/files/Ottone_Nicholas_CV.pdf) here.
 
+Academic Appointments
+======
+* Research Fellow, Hoover Institution, 2026--present
+  * Supervisor: Tom Clark
+
 Education
 ======
-* Ph.D in Political Science, Yale University, 2026 (expected)
+* Ph.D in Political Science, Yale University, 2026
 * B.S. in Applied Computational Mathematics and Statistics and Political Science, University of Notre Dame, 2020
 
 Publications
@@ -26,17 +31,23 @@ Broockman, David, Joshua Kalla, **Nicholas Ottone**, Erik Santoro and Amanda Wei
 
 Working Papers
 ======
-Huber, Gregory, **Nicholas Ottone** and Erik Snowberg. "The Coherence of Citizen Preferences." *Under Review*
+Harris, Allison, **Nicholas Ottone** and Hannah Walker. Diversity among Courthouse Colleagues and Individual Decision Making." *Under Review*
+
+Huber, Gregory, **Nicholas Ottone** and Erik Snowberg. "The Coherence of Citizen Preferences". *Under Review*
 
 **Ottone, Nicholas**, "Do Americans Prefer Outsourcing Local Services to Non-Profits and Businesses? Evidence from Experimental Survey Data." *Under Review*
 
+**Ottone, Nicholas**, ["Canvassing Mobilizes and Increases Vote Share: Evidence from a Local Election in Seattle"](osf.io/preprints/socarxiv/u47s3_v1). *Under Review*
+
 **Ottone, Nicholas** and Limor Peer. ["Unintended Research Code Errors and Computational Reproducibility".](https://osf.io/preprints/metaarxiv/rv6xd_v1) *Working Paper*
 
-Book Project
+Book Projects
 ======
-**Ottone, Nicholas**, *The Policy Influence of Non-Profit Service Providers in Local Politics*. 
+**Ottone, Nicholas**, *The Policy Influence of Non-Profit Service Providers in Local Politics*.
 
-Work experience
+**Ottone, Nicholas** and Amanda Weiss. *Bad Neighbors: The Politics of Prisons*.
+
+Work Experience
 ======
 * Aug 2022-2024: Editorial Assistant
   * American Political Science Review
